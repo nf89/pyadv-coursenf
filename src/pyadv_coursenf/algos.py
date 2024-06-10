@@ -1,2 +1,4 @@
+import numpy as np
+
 def add_one(x):
-    return x + 1
+    return np.array(x) + 1

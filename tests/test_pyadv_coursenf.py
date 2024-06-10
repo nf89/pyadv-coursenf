@@ -11,4 +11,3 @@ def test_add_two():
 def test_add_three():
     out = algos.add_three(1)
     assert out == 4
-
